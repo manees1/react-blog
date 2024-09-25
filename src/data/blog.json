@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "title": "Exploring the New Features in Laravel 9",
+        "content": "Laravel 9 introduces several new features and improvements that make it easier for developers to build robust applications.",
+        "author": "John Doe",
+        "created_at": "2024-09-21T10:00:00Z"
+    },
+    {
+        "id": 2,
+        "title": "Understanding JavaScript Closures",
+        "content": "Closures are a fundamental concept in JavaScript that allow functions to access variables from an outer function scope.",
+        "author": "Jane Smith",
+        "created_at": "2024-09-20T14:30:00Z"
+    },
+    {
+        "id": 3,
+        "title": "A Beginner's Guide to React Hooks",
+        "content": "React Hooks provide a way to use state and other React features without writing a class. Learn how to use them effectively.",
+        "author": "Alice Johnson",
+        "created_at": "2024-09-19T09:15:00Z"
+    },
+    {
+        "id": 4,
+        "title": "Mastering CSS Grid Layout",
+        "content": "CSS Grid Layout is a powerful layout system available in CSS. It allows you to create complex layouts easily.",
+        "author": "Bob Brown",
+        "created_at": "2024-09-18T18:45:00Z"
+    },
+    {
+        "id": 5,
+        "title": "Getting Started with TypeScript",
+        "content": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. It provides optional static typing.",
+        "author": "Emily White",
+        "created_at": "2024-09-17T11:00:00Z"
+    },
+    {
+        "id": 6,
+        "title": "Building RESTful APIs with Node.js",
+        "content": "Learn how to build RESTful APIs using Node.js and Express. This tutorial covers the basics and some advanced topics.",
+        "author": "David Black",
+        "created_at": "2024-09-16T15:00:00Z"
+    },
+    {
+        "id": 7,
+        "title": "Understanding the Basics of Machine Learning",
+        "content": "Machine learning is a branch of artificial intelligence that focuses on the use of data and algorithms to imitate human learning.",
+        "author": "Sarah Green",
+        "created_at": "2024-09-15T09:00:00Z"
+    },
+    {
+        "id": 8,
+        "title": "Top 10 VS Code Extensions for Developers",
+        "content": "Visual Studio Code is a popular code editor. Enhance your productivity with these top 10 extensions.",
+        "author": "Michael Blue",
+        "created_at": "2024-09-14T12:30:00Z"
+    },
+    {
+        "id": 9,
+        "title": "Introduction to Web Accessibility",
+        "content": "Web accessibility ensures that websites are usable by people of all abilities and disabilities. Learn the basics in this guide.",
+        "author": "Karen Orange",
+        "created_at": "2024-09-13T16:00:00Z"
+    },
+    {
+        "id": 10,
+        "title": "Using Docker for Local Development",
+        "content": "Docker is a tool that allows developers to create, deploy, and run applications in containers. Learn how to use it for local development.",
+        "author": "Tom Yellow",
+        "created_at": "2024-09-12T08:30:00Z"
+    },
+    {
+        "id": 11,
+        "title": "Understanding Git and GitHub",
+        "content": "Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories.",
+        "author": "Jessica Pink",
+        "created_at": "2024-09-11T14:00:00Z"
+    },
+    {
+        "id": 12,
+        "title": "Building a Simple Blog with Django",
+        "content": "Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.",
+        "author": "Peter Purple",
+        "created_at": "2024-09-10T10:00:00Z"
+    },
+    {
+        "id": 13,
+        "title": "Optimizing Web Performance",
+        "content": "Web performance optimization is the process of making websites fast, efficient, and performant. Learn tips to optimize your site.",
+        "author": "Helen Red",
+        "created_at": "2024-09-09T13:45:00Z"
+    },
+    {
+        "id": 14,
+        "title": "GraphQL vs REST: Which One to Choose?",
+        "content": "GraphQL and REST are two popular API design patterns. Understand the differences and learn which one is right for your project.",
+        "author": "Gary Silver",
+        "created_at": "2024-09-08T17:30:00Z"
+    },
+    {
+        "id": 15,
+        "title": "An Introduction to Cloud Computing",
+        "content": "Cloud computing is the delivery of computing services over the internet. Learn the basics and explore the main providers.",
+        "author": "Anna Gold",
+        "created_at": "2024-09-07T11:00:00Z"
+    },
+    {
+        "id": 16,
+        "title": "Getting Started with Vue.js",
+        "content": "Vue.js is a progressive JavaScript framework for building user interfaces. Learn how to get started with Vue in this tutorial.",
+        "author": "Daniel Bronze",
+        "created_at": "2024-09-06T08:00:00Z"
+    },
+    {
+        "id": 17,
+        "title": "A Guide to Responsive Web Design",
+        "content": "Responsive web design is an approach that makes web pages render well on a variety of devices and window or screen sizes.",
+        "author": "Chris Maroon",
+        "created_at": "2024-09-05T15:15:00Z"
+    },
+    {
+        "id": 18,
+        "title": "Building Realtime Apps with WebSockets",
+        "content": "WebSockets provide a way to open a persistent connection between a client and server. Learn how to build realtime apps with them.",
+        "author": "Laura Silver",
+        "created_at": "2024-09-04T13:00:00Z"
+    },
+    {
+        "id": 19,
+        "title": "Introduction to Kubernetes",
+        "content": "Kubernetes is an open-source platform designed to automate deploying, scaling, and operating application containers.",
+        "author": "Nathan Gray",
+        "created_at": "2024-09-03T10:00:00Z"
+    },
+    {
+        "id": 20,
+        "title": "Getting Started with Flutter for Mobile Development",
+        "content": "Flutter is an open-source UI software development kit created by Google. It is used to develop applications for Android, iOS, and the web.",
+        "author": "Olivia Violet",
+        "created_at": "2024-09-02T09:00:00Z"
+    }
+]

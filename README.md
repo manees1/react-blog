@@ -18,6 +18,22 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+## Dashboard: 
+![Dashbard](./blogDashboard.png.jpg)
+
+## Known Issue: MongoDB Connection Problem
+During the development of this backend API, I encountered issues with the MongoDB connection due to software conflicts on my laptop. Despite troubleshooting efforts such as:
+
+Reinstalling MongoDB and setting up a fresh environment
+Inserting the necessary MongoDB driver DLL files into PHP
+Enabling the MongoDB extension in php.ini
+The connection issue persisted, likely due to a problem with the MongoDB driver. As a result, I had to switch to a different laptop and set up the environment again. However, the same connection problem reappeared, indicating a recurring software issue.
+
+Due to these software-related challenges, the application was unable to run properly during initial testing.
+
+For this Assignment 3, the React app pulls data from a JSON file, replicating the setup used in our workshop class.
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
